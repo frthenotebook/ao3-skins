@@ -28,7 +28,7 @@ A collection of AO3 site skins created over the course of time. Ranges from them
 
 ## Dependencies
 
-None. It's just CSS. You might need an AO3 account to fulyl make use of it.
+None. It's just CSS. You might need an AO3 account to fully make use of it.
 
 ## Acknowledgements
 
