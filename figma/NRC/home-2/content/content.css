@@ -1,0 +1,147 @@
+.frame-parent {
+  	width: 100%;
+  	position: relative;
+  	overflow: hidden;
+  	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+  	padding: 100px 150px;
+  	box-sizing: border-box;
+  	isolation: isolate;
+  	gap: 20px;
+  	text-align: left;
+  	font-size: 48px;
+  	color: #fff;
+  	font-family: Afacad;
+}
+.frame-group {
+  	height: 1069px;
+  	width: 1260px;
+  	background-color: #000;
+  	border: 1px solid #c0b392;
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	padding: 50px;
+  	gap: 35px;
+  	z-index: 0;
+  	flex-shrink: 0;
+}
+.find-your-favorites-wrapper {
+  	align-self: stretch;
+  	border-bottom: 5px dashed #c8bda2;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 0px;
+}
+.find-your-favorites {
+  	flex: 1;
+  	position: relative;
+}
+.lorem-ipsum-parent {
+  	width: 156px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	font-size: 32px;
+  	color: #c9bea3;
+}
+.lorem-ipsum {
+  	align-self: stretch;
+  	position: relative;
+}
+.frame-container {
+  	height: 1069px;
+  	width: 1280px;
+  	background-color: #000;
+  	border: 1px solid #c0b392;
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	padding: 50px;
+  	gap: 35px;
+  	z-index: 1;
+  	flex-shrink: 0;
+  	font-size: 32px;
+}
+.news-parent {
+  	align-self: stretch;
+  	border-bottom: 5px dashed #c8bda2;
+  	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+  	padding: 10px 0px;
+  	gap: 0px;
+  	flex-shrink: 0;
+  	font-size: 48px;
+}
+.all-news {
+  	flex: 1;
+  	position: relative;
+  	font-size: 32px;
+  	text-align: right;
+}
+.frame-div {
+  	align-self: stretch;
+  	border-bottom: 1px solid #cbc2a3;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	padding: 25px;
+  	gap: 20px;
+  	flex-shrink: 0;
+}
+.title-parent {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	gap: 10px;
+  	font-size: 40px;
+}
+.title {
+  	position: relative;
+}
+.published {
+  	position: relative;
+  	font-size: 20px;
+  	font-family: 'Atkinson Hyperlegible Mono';
+  	color: #cbc2a3;
+}
+.every-month-or-so-the-otw-will-wrapper {
+  	align-self: stretch;
+  	border-left: 5px solid #fff;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 0px 0px 0px 15px;
+}
+.read-more {
+  	align-self: stretch;
+  	position: relative;
+  	text-decoration: underline;
+  	color: #cbc2a3;
+  	text-align: right;
+}
+.every-month-or3 {
+  	width: 1280px;
+  	position: relative;
+  	font-size: 40px;
+  	color: #000;
+  	display: none;
+  	flex-shrink: 0;
+}
+.image-8-icon {
+  	height: 90px;
+  	width: 77px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	left: 34px;
+  	object-fit: contain;
+  	z-index: 2;
+  	flex-shrink: 0;
+}
+
