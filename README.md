@@ -15,4 +15,4 @@ None. It's just CSS. You might need an AO3 account to fulyl make use of it.
 > the reason I started making skins, really
 
 **[Permablocking Specific Tags - Site Skin](https://archiveofourown.org/works/41214669/chapters/103324848) by Eli0t**
-> How I became aware of the `:has()` selector
+> How I became aware of the `:has()` selector. 

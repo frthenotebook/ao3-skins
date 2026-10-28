@@ -1,0 +1,14 @@
+/* ----------------------------------------------------------------------------------
+  Emboldens specific tags.
+  This is meant to be used as a starter.
+-------------------------------------------------------------------------------------*/
+
+/* Makes a tag that contains the links within `:is()` bold */
+.blurb a.tag:is(
+  [href$="/tags/AO3%20Skins/works"],
+  [href$="/tags/CSS/bookmarks"]
+  /* Add or modify links within the specific format */
+) {
+  font-weight: bold;
+  /* You can add more changes as you see fit (e.g. colors, font style, etc) */
+}

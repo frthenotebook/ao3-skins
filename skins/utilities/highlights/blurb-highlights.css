@@ -1,0 +1,34 @@
+/* ----------------------------------------------------------------------------------
+  Emboldens specific blurbs.
+  This is meant to be used as a starter.
+-------------------------------------------------------------------------------------*/
+
+/* Bolds the left border of the work containing these specific tags */
+.blurb:has(
+    a.tags:is(
+        [href$="/tags/AO3%20Skins/works"],
+        [href$="/tags/CSS/bookmarks"]
+    )
+) {
+  border: solid 1px;
+  border-left: solid 2px;
+}
+
+/* Adds a small textbox before the summary if the work contains specific tags */
+/* Add a small "Chatting and Messaging" tag on the summary. */
+.blurb:has(
+    a.tags:is(
+        [href$="/tags/AO3%20Skins/works"]
+    )
+) .summary::before { /* This targets the summary. ::before simply means the item will be placed before the summary element */
+  border: solid 0.5px;
+  border-left: solid 2px;
+  border-radius: 2px;
+  padding: 3px;
+  margin: 5px 0px;
+  font-weight: bold;
+  content: "This fic contains AO3 Skins";
+  display: inline-block;
+  font-size: smaller;
+  background: #f1ede0;
+}
