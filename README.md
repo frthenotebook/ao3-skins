@@ -2,6 +2,7 @@
 
 A collection of AO3 site skins created over the course of time. Ranges from theming to widgets or add-ons. See [below](#previews) for previews 
 
+> [!TIP]
 > To install any new skin, refer to [this tutorial by AO3](https://archiveofourown.org/admin_posts/80) for guidance. To install any of my theme site skins (under `./skins/themes/`), refer to [`INSTALLATION.md`](./INSTALLATION.md).
 
 ## Previews
