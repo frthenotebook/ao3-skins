@@ -31,8 +31,8 @@ I don't plan on creating work skins as of now, but if I were to do so, I'll upda
             <img src="./img/tag-bold.png" alt="An emboldened tag">
         </td>
         <td>
-            <a href="./skins/utilities/highlights/tag-highlights.css">
-            <pre>./skins/utilities/tag-highlights.css</pre>
+            <a href="https://github.com/frthenotebook/ao3-skins/blob/main/skins/utilities/highlights/tag-highlights.css">
+                <pre>./skins/utilities/tag-highlights.css</pre>
             </a>
         </td>
     </tr>
@@ -42,8 +42,8 @@ I don't plan on creating work skins as of now, but if I were to do so, I'll upda
             <img src="./img/blurb-bold.png" alt="An emboldened blurb border">
         </td>
         <td>
-            <a href="./skins/utilities/highlights/blurb-highlights.css">
-            <pre>./skins/utilities/blurb-highlights.css</pre>
+            <a href="https://github.com/frthenotebook/ao3-skins/blob/main/skins/utilities/highlights/blurb-highlights.css">
+                <pre>./skins/utilities/blurb-highlights.css</pre>
             </a>
         </td>
     </tr>
